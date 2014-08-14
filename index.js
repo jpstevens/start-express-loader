@@ -7,7 +7,7 @@
     var servicePromises = [];
     services = services || [];
     for(var i=0; i<services.length; i++) {
-      servicePromises.push(require('start-express-'+service).start(server));
+      servicePromises.push(require('start-express-'+services[i]).start(app));
     }
     q.all(servicePromises).then(function(){
       var message = "Express.js application started successfully";
