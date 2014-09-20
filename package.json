@@ -7,5 +7,10 @@
   "dependencies": {
     "q": "^1.0.1",
     "chalk": "^0.5.1"
+  },
+  "devDependencies": {
+    "express": "^4.9.4",
+    "start-express-http": "0.0.0-pre1",
+    "start-express-mongoose": "^0.1.0"
   }
 }
