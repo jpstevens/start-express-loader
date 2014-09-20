@@ -1,6 +1,6 @@
 {
   "name": "start-express-loader",
-  "version": "0.0.0-pre1",
+  "version": "0.1.0",
   "description": "A promise-based service loader for Express.js",
   "main": "index.js",
   "license": "ISC",

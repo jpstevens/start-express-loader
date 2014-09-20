@@ -1,7 +1,7 @@
 # start-express-loader
 [![Build Status](https://travis-ci.org/jpstevens/start-express-loader.svg?branch=master)](https://travis-ci.org/jpstevens/start-express-loader)
 
-A Mongoose boot helper for Express.js
+A promise-based service loader for Express.js
 
 ## Installation
 
