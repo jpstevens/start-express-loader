@@ -1,5 +1,6 @@
 # start-express-loader
 [![Build Status](https://travis-ci.org/jpstevens/start-express-loader.svg?branch=master)](https://travis-ci.org/jpstevens/start-express-loader)
+![Downloads/month](http://img.shields.io/npm/dm/start-express-loader.svg)
 
 A promise-based service loader for Express.js
 
